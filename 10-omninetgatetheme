@@ -18,5 +18,6 @@ fetch -o "$IMAGE_DIR/caret.png" "https://raw.githubusercontent.com/skeelkat/omni
 fetch -o "$IMAGE_DIR/default-logo.png" "https://raw.githubusercontent.com/skeelkat/omninetgate/main/default-logo.png"
 fetch -o "$IMAGE_DIR/favicon.png" "https://raw.githubusercontent.com/skeelkat/omninetgate/main/favicon.png"
 fetch -o "$IMAGE_DIR/icon-logo.png" "https://raw.githubusercontent.com/skeelkat/omninetgate/main/icon-logo.png"
+fetch -o "$IMAGE_DIR/icon-logo.svg" "https://raw.githubusercontent.com/skeelkat/omninetgate/main/icon-logo.svg"
 
 echo "Theme successfully copied and images replaced."
