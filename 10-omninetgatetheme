@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Define source and destination theme directories
-SRC_DIR="/usr/local/opnsense/www/themes/cicada"
-DEST_DIR="/usr/local/opnsense/www/themes/omninetgate"
+SRC_DIR="/usr/local/opnsense/www/themes/cicada/"
+DEST_DIR="/usr/local/opnsense/www/themes/omninetgate/"
 IMAGE_DIR="$DEST_DIR/build/images"
 
 # Create a copy of the Cicada theme
